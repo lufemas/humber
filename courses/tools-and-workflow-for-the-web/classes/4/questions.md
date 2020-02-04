@@ -7,7 +7,7 @@ Use this document as a starting point for Part 1 of the Class 4 exercise. Answer
 
 ## Questions
 1. Write the command (or commands) that will display the following message 'Hello from the command line.'
-<your-answer-here>
+<code>echo Hello from the command line</code> or <code>"echo Hello from the command line"</code> or <code>echo 'Hello from the command line'</code>
 
 2. Write the command (or commands) that will create a file named 'hello-world.txt'.
 <your-answer-here>
