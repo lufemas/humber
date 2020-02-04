@@ -5,12 +5,16 @@ Use this document as a starting point for Part 1 of the Class 4 exercise. Answer
   - Attach this document to your exercise submission email.
   - Or copy-and-paste the contents of this document into your submission email.
 
+<h1> JR Maschietto's Answers</h1>
+
 ## Questions
 1. Write the command (or commands) that will display the following message 'Hello from the command line.'
-<code>echo Hello from the command line</code> or <code>"echo Hello from the command line"</code> or <code>echo 'Hello from the command line'</code>
+<code>echo Hello from the command line</code>
 
 2. Write the command (or commands) that will create a file named 'hello-world.txt'.
-<your-answer-here>
+```bash
+<code>touch hello-world.txt</code>
+```
 
 3. Write the command (or commands) that will create a folder named 'my-new-folder' in current directly.
 <your-answer-here>
